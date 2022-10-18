@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Ivan
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;I'm+Ivan;)](https://git.io/typing-svg)
 
 ## I'm Auto QA Engineer
 
