@@ -7,7 +7,7 @@
 - 🥅 Constantly learning new technologies
 - 👯 I'm looking for cooperation in testing projects
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=%D0%9A%D0%BE%D0%B4+Fira&size=18&duration=4998&pause=1000&color=F72B82&center=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&vCenter=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&width=478&lines=I+blog+on+Instagram)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=%D0%9A%D0%BE%D0%B4+Fira&size=7&duration=4998&pause=1000&color=F72B82&center=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&vCenter=%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE&width=478&lines=I+blog+on+Instagram)](https://git.io/typing-svg)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zekori1&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/zekori1/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekori1&theme=dark&langs_count=8&layout=compact)](https://github.com/zekori1/)
