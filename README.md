@@ -6,7 +6,7 @@
 - 🎉 I like to go to the gym, travel, play drums
 - 🥅 Constantly learning new technologies
 - 👯 I'm looking for cooperation in testing projects
-- ✍️ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F72B82&center=true&width=487&lines=I+blog+on+Instagram)](https://git.io/typing-svg)
+- ✍️ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F72B82&width=487&lines=I+blog+on+Instagram)](https://git.io/typing-svg)
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zekori1&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/zekori1/)  
